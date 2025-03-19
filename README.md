@@ -77,3 +77,4 @@ python main.py
 ## 👥 Contributors
 
 - Jon Ibarreche <jon.ibarreche@opendeusto.es>
+- Javier Fuente <javifuenn@opendeusto.es>
